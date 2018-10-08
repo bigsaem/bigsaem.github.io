@@ -238,7 +238,7 @@ header.masthead .device-container .screen img {
 
 section.download {
   position: relative;
-  padding: 150px 0;
+  padding: 100px 0;
 }
 
 section.download h2 {
@@ -344,7 +344,7 @@ section.cta.a .a-title{
   text-align: center;
   position: relative;
   z-index: 1;
-  color: rgb(255, 94, 0);
+  color: rgb(255, 157, 92);
   font-family: 'Lily Script one', cursive;
   font-size: 50pt;
 }
